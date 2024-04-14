@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Bem-vindo ao meu perfil! 👋
+Olá! Sou Willians, um entusiasta da tecnologia apaixonado por desenvolvimento de software, aprendizado de máquina e tudo relacionado à computação. Atualmente, estou explorando diversas áreas dentro da ciência da computação e sempre em busca de desafios interessantes para resolver.
+
 <!--
 **Willians-Henrique/Willians-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
