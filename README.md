@@ -23,6 +23,12 @@ Adoro trabalhar com desenvolvimento web, explorar diferentes frameworks, linguag
 - **Comunicação:** Tenho facilidade para explicar conceitos técnicos para diferentes públicos.
 - **Organização:** Gosto de manter meus projetos bem organizados e planejados.
 
+
+
+## Habilidades Técnicas 🛠️
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Willians-Henrique&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ---
 
 ## Habilidades Técnicas 🛠️
