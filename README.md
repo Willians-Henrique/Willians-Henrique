@@ -28,7 +28,9 @@ Sou apaixonado por cultura e gastronomia. Adoro experimentar pratos, especialmen
 
 ## Habilidades Técnicas Desenvolvidas Publicamente 🛠️
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Willians-Henrique&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Willians-Henrique&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Willians-Henrique&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+|:--:|:--:|
+
 
 
 ## Habilidades que quero desenvolver no Front-end
@@ -60,6 +62,7 @@ Sou apaixonado por cultura e gastronomia. Adoro experimentar pratos, especialmen
 | **AdonisJS**        | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%   |
 | **C**               | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%  |
 | **C++**             | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%  |
+| **Java**             | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%  |
 | **Rust**            | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%  |
 | **GO**              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30%  |
 | **Java**            | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%  |
