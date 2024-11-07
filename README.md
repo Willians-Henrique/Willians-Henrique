@@ -28,8 +28,9 @@ Sou apaixonado por cultura e gastronomia. Adoro experimentar pratos, especialmen
 
 ## Habilidades Técnicas Desenvolvidas Publicamente 🛠️
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Willians-Henrique&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Willians-Henrique&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+| <a href="https://git.io/streak-stats">  <img src="https://github-readme-streak-stats.herokuapp.com?user=Willians-Henrique&theme=midnight-purple&card_width=494" alt="GitHub Streak" /> </a> | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Willians-Henrique&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
 |:--:|:--:|
+
 
 
 
